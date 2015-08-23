@@ -1,0 +1,11 @@
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\01_FirstExample.Tests.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\01_FirstExample.Tests.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\01_FirstExample.Tests.dll.CodeAnalysisLog.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\01_FirstExample.Tests.dll.lastcodeanalysissucceeded
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\FirstExample.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\FirstExample.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\obj\Debug\01_FirstExample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\obj\Debug\01_FirstExample.Tests.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\01_FirstExample.Tests\obj\Debug\01_FirstExample.Tests.pdb

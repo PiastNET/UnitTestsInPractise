@@ -1,0 +1,15 @@
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\05_FileSystemSeparation.Fakes.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\05_FileSystemSeparation.Fakes.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\05_FileSystemSeparation.Fakes.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\05_FileSystemSeparation.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\NSubstitute.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\nunit.framework.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\System.IO.Abstractions.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\System.IO.Abstractions.TestingHelpers.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\05_FileSystemSeparation.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\NSubstitute.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\b\nunit.framework.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\o\05_FileSystemSeparation.Fakes.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation.Tests\obj\Debug\Fakes\05fss\o\05_FileSystemSeparation.Fakes.pdb

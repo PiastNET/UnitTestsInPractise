@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shims.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Shims.Fakes.ShimInvoice">
+            <summary>Shim type of Shims.Invoice</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoice.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoice.#ctor(Shims.Invoice)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoice.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoice.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.Constructor">
+            <summary>Sets the shim of Invoice.Invoice()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.DocumentDateGet">
+            <summary>Sets the shim of Invoice.get_DocumentDate()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.DocumentDateSetDateTime">
+            <summary>Sets the shim of Invoice.set_DocumentDate(DateTime value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.DocumentNumberGet">
+            <summary>Sets the shim of Invoice.get_DocumentNumber()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.DocumentNumberSetString">
+            <summary>Sets the shim of Invoice.set_DocumentNumber(String value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.IsDirtyGet">
+            <summary>Sets the shim of Invoice.get_IsDirty()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.IsDirtySetBoolean">
+            <summary>Sets the shim of Invoice.set_IsDirty(Boolean value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.IsNewGet">
+            <summary>Sets the shim of Invoice.get_IsNew()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.IsNewSetBoolean">
+            <summary>Sets the shim of Invoice.set_IsNew(Boolean value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.TotalValueGet">
+            <summary>Sets the shim of Invoice.get_TotalValue()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.TotalValueSetDecimal">
+            <summary>Sets the shim of Invoice.set_TotalValue(Decimal value)</summary>
+        </member>
+        <member name="T:Shims.Fakes.ShimInvoice.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.DocumentDateGet">
+            <summary>Sets the shim of Invoice.get_DocumentDate()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.DocumentDateSetDateTime">
+            <summary>Sets the shim of Invoice.set_DocumentDate(DateTime value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.DocumentNumberGet">
+            <summary>Sets the shim of Invoice.get_DocumentNumber()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.DocumentNumberSetString">
+            <summary>Sets the shim of Invoice.set_DocumentNumber(String value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.IsDirtyGet">
+            <summary>Sets the shim of Invoice.get_IsDirty()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.IsDirtySetBoolean">
+            <summary>Sets the shim of Invoice.set_IsDirty(Boolean value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.IsNewGet">
+            <summary>Sets the shim of Invoice.get_IsNew()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.IsNewSetBoolean">
+            <summary>Sets the shim of Invoice.set_IsNew(Boolean value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.TotalValueGet">
+            <summary>Sets the shim of Invoice.get_TotalValue()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoice.AllInstances.TotalValueSetDecimal">
+            <summary>Sets the shim of Invoice.set_TotalValue(Decimal value)</summary>
+        </member>
+        <member name="T:Shims.Fakes.ShimInvoiceService">
+            <summary>Shim type of Shims.InvoiceService</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoiceService.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoiceService.#ctor(Shims.InvoiceService)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoiceService.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimInvoiceService.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.Constructor">
+            <summary>Sets the shim of InvoiceService.InvoiceService()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.CreateNewInvoice">
+            <summary>Sets the shim of InvoiceService.CreateNewInvoice()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.DeleteInvoiceInvoice">
+            <summary>Sets the shim of InvoiceService.DeleteInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.InvoiceRepositoryGet">
+            <summary>Sets the shim of InvoiceService.get_InvoiceRepository()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.InvoiceRepositorySetIInvoiceRepository">
+            <summary>Sets the shim of InvoiceService.set_InvoiceRepository(IInvoiceRepository value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.SaveInvoiceInvoice">
+            <summary>Sets the shim of InvoiceService.SaveInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="T:Shims.Fakes.ShimInvoiceService.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.AllInstances.CreateNewInvoice">
+            <summary>Sets the shim of InvoiceService.CreateNewInvoice()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.AllInstances.DeleteInvoiceInvoice">
+            <summary>Sets the shim of InvoiceService.DeleteInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.AllInstances.InvoiceRepositoryGet">
+            <summary>Sets the shim of InvoiceService.get_InvoiceRepository()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.AllInstances.InvoiceRepositorySetIInvoiceRepository">
+            <summary>Sets the shim of InvoiceService.set_InvoiceRepository(IInvoiceRepository value)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimInvoiceService.AllInstances.SaveInvoiceInvoice">
+            <summary>Sets the shim of InvoiceService.SaveInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="T:Shims.Fakes.ShimLogger">
+            <summary>Shim type of Shims.Logger</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimLogger.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimLogger.#ctor(Shims.Logger)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimLogger.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Shims.Fakes.ShimLogger.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimLogger.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimLogger.Constructor">
+            <summary>Sets the shim of Logger.Logger()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimLogger.InstanceGet">
+            <summary>Sets the shim of Logger.get_Instance()</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimLogger.LogException">
+            <summary>Sets the shim of Logger.Log(Exception exception)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimLogger.LogString">
+            <summary>Sets the shim of Logger.Log(String message)</summary>
+        </member>
+        <member name="T:Shims.Fakes.ShimLogger.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimLogger.AllInstances.LogException">
+            <summary>Sets the shim of Logger.Log(Exception exception)</summary>
+        </member>
+        <member name="P:Shims.Fakes.ShimLogger.AllInstances.LogString">
+            <summary>Sets the shim of Logger.Log(String message)</summary>
+        </member>
+        <member name="T:Shims.Fakes.StubIInvoiceRepository">
+            <summary>Stub type of Shims.IInvoiceRepository</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubIInvoiceRepository.#ctor">
+            <summary>Initializes a new instance of type StubIInvoiceRepository</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubIInvoiceRepository.DeleteInvoiceInvoice">
+            <summary>Sets the stub of IInvoiceRepository.DeleteInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubIInvoiceRepository.DeleteInvoiceString">
+            <summary>Sets the stub of IInvoiceRepository.DeleteInvoice(String documentNumber)</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubIInvoiceRepository.GetAllInvoices">
+            <summary>Sets the stub of IInvoiceRepository.GetAllInvoices()</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubIInvoiceRepository.GetInvoiceByNumberString">
+            <summary>Sets the stub of IInvoiceRepository.GetInvoiceByNumber(String documentNumber)</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubIInvoiceRepository.InsertInvoiceInvoice">
+            <summary>Sets the stub of IInvoiceRepository.InsertInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubIInvoiceRepository.s::Shims#IInvoiceRepository#DeleteInvoice(Shims.Invoice)">
+            <summary>Sets the stub of IInvoiceRepository.DeleteInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubIInvoiceRepository.s::Shims#IInvoiceRepository#DeleteInvoice(System.String)">
+            <summary>Sets the stub of IInvoiceRepository.DeleteInvoice(String documentNumber)</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubIInvoiceRepository.s::Shims#IInvoiceRepository#GetAllInvoices">
+            <summary>Sets the stub of IInvoiceRepository.GetAllInvoices()</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubIInvoiceRepository.s::Shims#IInvoiceRepository#GetInvoiceByNumber(System.String)">
+            <summary>Sets the stub of IInvoiceRepository.GetInvoiceByNumber(String documentNumber)</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubIInvoiceRepository.s::Shims#IInvoiceRepository#InsertInvoice(Shims.Invoice)">
+            <summary>Sets the stub of IInvoiceRepository.InsertInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubIInvoiceRepository.s::Shims#IInvoiceRepository#UpdateInvoice(Shims.Invoice)">
+            <summary>Sets the stub of IInvoiceRepository.UpdateInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubIInvoiceRepository.UpdateInvoiceInvoice">
+            <summary>Sets the stub of IInvoiceRepository.UpdateInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="T:Shims.Fakes.StubInvoice">
+            <summary>Stub type of Shims.Invoice</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubInvoice.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubInvoice.InitializeStub">
+            <summary>Initializes a new instance of type StubInvoice</summary>
+        </member>
+        <member name="P:Shims.Fakes.StubInvoice.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Shims.Fakes.StubInvoice.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Shims.Fakes.StubInvoice.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Shims.Fakes.StubInvoiceService">
+            <summary>Stub type of Shims.InvoiceService</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubInvoiceService.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubInvoiceService.CreateNewInvoice">
+            <summary>Sets the stub of InvoiceService.CreateNewInvoice()</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubInvoiceService.CreateNewInvoice01">
+            <summary>Sets the stub of InvoiceService.CreateNewInvoice()</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubInvoiceService.DeleteInvoice(Shims.Invoice)">
+            <summary>Sets the stub of InvoiceService.DeleteInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubInvoiceService.DeleteInvoiceInvoice">
+            <summary>Sets the stub of InvoiceService.DeleteInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubInvoiceService.InitializeStub">
+            <summary>Initializes a new instance of type StubInvoiceService</summary>
+        </member>
+        <member name="M:Shims.Fakes.StubInvoiceService.SaveInvoice(Shims.Invoice)">
+            <summary>Sets the stub of InvoiceService.SaveInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="F:Shims.Fakes.StubInvoiceService.SaveInvoiceInvoice">
+            <summary>Sets the stub of InvoiceService.SaveInvoice(Invoice invoice)</summary>
+        </member>
+        <member name="P:Shims.Fakes.StubInvoiceService.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Shims.Fakes.StubInvoiceService.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Shims.Fakes.StubInvoiceService.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

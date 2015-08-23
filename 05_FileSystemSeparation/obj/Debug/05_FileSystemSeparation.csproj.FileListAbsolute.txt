@@ -1,0 +1,8 @@
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\bin\Debug\05_FileSystemSeparation.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\bin\Debug\05_FileSystemSeparation.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\bin\Debug\05_FileSystemSeparation.dll.CodeAnalysisLog.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\bin\Debug\05_FileSystemSeparation.dll.lastcodeanalysissucceeded
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\bin\Debug\System.IO.Abstractions.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\obj\Debug\05_FileSystemSeparation.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\obj\Debug\05_FileSystemSeparation.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\05_FileSystemSeparation\obj\Debug\05_FileSystemSeparation.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\bin\Debug\SingletonIsBad.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\bin\Debug\SingletonIsBad.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\bin\Debug\SingletonIsBad.dll.CodeAnalysisLog.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\bin\Debug\SingletonIsBad.dll.lastcodeanalysissucceeded
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\bin\Debug\Mocking.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\bin\Debug\Mocking.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\obj\Debug\03_SingletonIsBad.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\obj\Debug\SingletonIsBad.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\SingletonIsBad\obj\Debug\SingletonIsBad.pdb

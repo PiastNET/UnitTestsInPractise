@@ -1,0 +1,15 @@
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\03_SingletonIsBad.Tests.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\03_SingletonIsBad.Tests.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\03_SingletonIsBad.Tests.dll.CodeAnalysisLog.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\03_SingletonIsBad.Tests.dll.lastcodeanalysissucceeded
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\Mocking.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\SingletonIsBad.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\Mocking.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\SingletonIsBad.pdb
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\NSubstitute.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\obj\Debug\03_SingletonIsBad.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\obj\Debug\03_SingletonIsBad.Tests.dll
+C:\Users\Pawel\Desktop\UnitTestsInPractice\03_SingletonIsBad.Tests\obj\Debug\03_SingletonIsBad.Tests.pdb
