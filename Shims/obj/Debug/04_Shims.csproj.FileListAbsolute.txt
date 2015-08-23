@@ -1,7 +1,0 @@
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Shims\bin\Debug\Shims.dll
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Shims\bin\Debug\Shims.pdb
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Shims\bin\Debug\Shims.dll.CodeAnalysisLog.xml
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Shims\bin\Debug\Shims.dll.lastcodeanalysissucceeded
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Shims\obj\Debug\04_Shims.csprojResolveAssemblyReference.cache
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Shims\obj\Debug\Shims.dll
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Shims\obj\Debug\Shims.pdb

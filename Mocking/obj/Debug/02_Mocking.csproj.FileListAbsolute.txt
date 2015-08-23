@@ -1,7 +1,0 @@
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Mocking\bin\Debug\Mocking.dll
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Mocking\bin\Debug\Mocking.pdb
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Mocking\bin\Debug\Mocking.dll.CodeAnalysisLog.xml
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Mocking\bin\Debug\Mocking.dll.lastcodeanalysissucceeded
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Mocking\obj\Debug\02_Mocking.csprojResolveAssemblyReference.cache
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Mocking\obj\Debug\Mocking.dll
-C:\Users\Pawel\Desktop\UnitTestsInPractice\Mocking\obj\Debug\Mocking.pdb

@@ -1,2 +1,0 @@
-C:\Users\Pawel\Desktop\UnitTestsInPractice\04_Shims.Tests\Fakes\Shims.fakes : warning : Cannot generate stub for Shims.Logger: type has no family visible contructors.
-C:\Users\Pawel\Desktop\UnitTestsInPractice\04_Shims.Tests\Fakes\Shims.fakes : warning : Cannot generate shim for Shims.IInvoiceRepository: type is an interface.

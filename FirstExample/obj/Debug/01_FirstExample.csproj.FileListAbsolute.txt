@@ -1,7 +1,0 @@
-C:\Users\Pawel\Desktop\UnitTestsInPractice\FirstExample\bin\Debug\FirstExample.dll
-C:\Users\Pawel\Desktop\UnitTestsInPractice\FirstExample\bin\Debug\FirstExample.pdb
-C:\Users\Pawel\Desktop\UnitTestsInPractice\FirstExample\bin\Debug\FirstExample.dll.CodeAnalysisLog.xml
-C:\Users\Pawel\Desktop\UnitTestsInPractice\FirstExample\bin\Debug\FirstExample.dll.lastcodeanalysissucceeded
-C:\Users\Pawel\Desktop\UnitTestsInPractice\FirstExample\obj\Debug\01_FirstExample.csprojResolveAssemblyReference.cache
-C:\Users\Pawel\Desktop\UnitTestsInPractice\FirstExample\obj\Debug\FirstExample.dll
-C:\Users\Pawel\Desktop\UnitTestsInPractice\FirstExample\obj\Debug\FirstExample.pdb
